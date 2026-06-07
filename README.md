@@ -22,12 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Statistics
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Region" />
-</p>
+>
 
 
 
